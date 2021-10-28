@@ -1,6 +1,6 @@
 ---
 - ignore-filenames:
-  - MainFragment.kt
+  - skip.java
 
   ignore-paths:
   - __MACOSX
